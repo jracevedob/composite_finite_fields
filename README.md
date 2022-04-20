@@ -8,7 +8,7 @@
 In this directoy, you will find the source code of a composite finite field calculator for fields of different sizes. This implementation is based on the 
 
 <p align="center">
-<img alt="fulcrum" src="https://github.com/jracevedob/composite_finite_fields/blob/main/figures/FNC-compositeff-encoding" width="800">
+<img alt="fulcrum" src="https://github.com/jracevedob/composite_finite_fields/blob/main/figures/FNC-compositeff-encoding.pdf" width="500">
 </p>
 
 
@@ -36,7 +36,6 @@ In this directoy, you will find the source code of a composite finite field calc
 This project exists thanks to all people who contribute.
 The [list](./CONTRIBUTORS) of all contributors.
 
-Please refer to the following [Link](https://de.fast-zwanzig20.de/) to get access to more detailed information about the project.
 
 ## Contact
 
