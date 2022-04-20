@@ -11,6 +11,8 @@ In this directoy, you will find the source code of a composite finite field calc
 <img alt="fulcrum" [embed]src="https://github.com/jracevedob/composite_finite_fields/blob/main/figures/FNC-compositeff-encoding.pdf"[/embed] width="500">
 </p>
 
+<embed src="https://github.com/jracevedob/composite_finite_fields/blob/main/figures/FNC-compositeff-encoding.pdf" type="application/pdf">
+
 
 ## Overview
 
