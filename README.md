@@ -11,11 +11,6 @@ In this directoy, you will find the source code of a composite finite field calc
 ## Overview
 
 
-
-<p align="center">
-<img alt="Ethernet_PLPS" src="https://github.com/jracevedob/MPSoC_Networking/blob/main/Figures/PLPS.png" width="800">
-</p>
-
 ## Table of Contents
 ## Quick Start
 
