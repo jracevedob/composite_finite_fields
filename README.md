@@ -5,21 +5,22 @@
 
 # Composite Finite Fields
 
-In this directoy, you will find the source code of a composite finite field calculator for fields of different sizes. This implementation is based on the 
+In this directoy, you will find the source code of a composite finite field calculator for fields of different sizes. This implementation is based on the work from James S Plank about finite fields arithmetics, but 
+we extended his work to perform a coefficient calculation for composite finite fields.
 
 <p align="center">
 <img alt="fulcrum" src="https://github.com/jracevedob/composite_finite_fields/blob/main/figures/FNC-compositeff-encoding.png" width="800">
 </p>
 
 
-
-
 ## Overview
-
+In this repository, you will find a trivial implementation about the calculation of coefficients in Galois fields from different sizes. Altough we are not presenting this last version of our implementation
+because we are extending this work in other publications, the reader can have an rough overview of the procedure we employed to calculate the coefficients. If you make use of the source code,
+we would be really humbled and grateful if you could please give credit to us either in your publications and other repositories where your implementation resides.
 
 ## Table of Contents
 ## Quick Start
-
+Composite Finite Fields are an extension of the 
 
 ### Results
 
