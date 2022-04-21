@@ -25,6 +25,7 @@ In this directoy, you will find the source code of a composite finite field calc
 
 ## Citations
 
+```
 @inproceedings{nguyen2022melecon,
 title = {A Good Horse Only Jumps as High as Needed: Multi-Field Fulcrum Codes for Heterogeneous Decoders},
 author = {Vu {Nguyen} and Juan A. {Cabrera} and Javier {Acevedo} and Christian {Scheunert} and Giang T. {Nguyen} and Frank H. P. {Fitzek}},
@@ -37,7 +38,7 @@ keywords = {},
 pubstate = {published},
 tppubtype = {inproceedings}
 }
-
+```
 
 ## Contributing
 
