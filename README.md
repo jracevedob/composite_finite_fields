@@ -20,17 +20,23 @@ In this directoy, you will find the source code of a composite finite field calc
 ## Table of Contents
 ## Quick Start
 
-### Hardware 
-
-### Software
-
-### Driver integration
 
 ### Results
 
 ## Citations
 
-
+@inproceedings{nguyen2022melecon,
+title = {A Good Horse Only Jumps as High as Needed: Multi-Field Fulcrum Codes for Heterogeneous Decoders},
+author = {Vu {Nguyen} and Juan A. {Cabrera} and Javier {Acevedo} and Christian {Scheunert} and Giang T. {Nguyen} and Frank H. P. {Fitzek}},
+year = {2022},
+date = {2022-06-14},
+urldate = {2022-06-01},
+booktitle = {2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON) (MELECON 2022)},
+address = {Palermo, Italy},
+keywords = {},
+pubstate = {published},
+tppubtype = {inproceedings}
+}
 
 
 ## Contributing
@@ -50,7 +56,7 @@ This project is licensed under the [MIT license](./LICENSE).
 
 ## News
 
-* **12.04.2021** - 
+* **12.04.2021** - Our paper called "A Good Horse Only Jumps as High as Needed: Multi-Field Fulcrum Codes for Heterogeneous Decoders" has been accepted for the MELECON 2022 conference.
 
 
 ## References
