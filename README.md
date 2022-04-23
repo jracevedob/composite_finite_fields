@@ -1,11 +1,11 @@
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/composite_finite_fields)](https://github.com/jracevedob/composite_finite_fields/blob/main/LICENSE)
 [![CI](https://github.com/jracevedob/composite_finite_fields/actions/workflows/build.yml/badge.svg)](https://github.com/jracevedob/composite_finite_fields/actions/workflows/build.yml)
-[![Github All Releases](https://img.shields.io/github/downloads/jracevedob/Post-Shannon-SDR/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/jracevedob/composite_finite_fields/total.svg)]()
 
 
 # Composite Finite Fields
 
-In this directoy, you will find the source code of a composite finite field calculator for fields of different sizes. This implementation is based on the work from James S Plank about finite fields arithmetics, but 
+In this directoy, you will find the source code of a composite finite field calculator for fields of different sizes. This implementation is based on the work from [James S Plank](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) about finite fields arithmetics, but 
 we extended his work to perform a coefficient calculation for composite finite fields.
 
 <p align="center">
@@ -14,7 +14,7 @@ we extended his work to perform a coefficient calculation for composite finite f
 
 
 ## Overview
-In this repository, you will find a trivial implementation about the calculation of coefficients in Galois fields from different sizes. Altough we are not presenting this last version of our implementation
+In this repository, you will find a trivial implementation of the coefficient calculation in Galois fields from different sizes. Altough we are not presenting this last version of our implementation
 because we are extending this work in other publications, the reader can have an rough overview of the procedure we employed to calculate the coefficients. If you make use of the source code,
 we would be really humbled and grateful if you could please give credit to us either in your publications and other repositories where your implementation resides.
 
